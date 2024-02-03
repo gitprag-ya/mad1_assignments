@@ -1,0 +1,29 @@
+div {
+  padding: 20px;
+}
+a {
+  color: red;
+}
+body {
+  background-color: #fdfdbb;
+}
+td,
+th {
+  padding: 5px;
+}
+th {
+  background: #259e3f;
+  color: black;
+  text-align: center;
+}
+td {
+  color: white;
+  text-align: right;
+}
+table {
+  background-color: black;
+}
+h1,
+h5 {
+  text-align: center;
+}

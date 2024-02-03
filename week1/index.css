@@ -1,0 +1,16 @@
+div {
+  margin: 20px;
+}
+a {
+  color: red;
+}
+body {
+  background-color: #fdfdbb;
+}
+span {
+  color: blue;
+}
+h1,
+h5 {
+  text-align: center;
+}
